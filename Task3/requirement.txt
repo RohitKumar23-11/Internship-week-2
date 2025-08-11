@@ -1,0 +1,6 @@
+Python 3.8+
+Pandas
+NumPy
+Numba
+Seaborn
+Matplotlib
