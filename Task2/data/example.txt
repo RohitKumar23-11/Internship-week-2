@@ -1,0 +1,23 @@
+What I worked on today (1-3 points on what you did):
+1. What's working?
+2. What's not working?
+3. What could be improved?
+
+What I'm working on next:
+1. What's your next course of actions? (based on the above)
+2. Why?
+3. What's holding you back?
+
+In paste special I need to paste SMILES from internet and it must print its SMILES Diagram.
+
+In SMILES diagrams I need to enable editing on the bond for writing the name of elements or compound like O, Ch3, Nh3 etc. it must enable using double mouse click
+
+I also need to create selection method on which select in rectanglur format another in custom mouse movement format.
+Also enable flip on images it must flip the image in 180 degree. (it is horizontal and even work for a part of diagram)
+
+I need to create rotate in rotate the stero-chemistry must preserve the diagram. (work like 180 degree flip but different)
+From structre option the clen up struction option is used to create the clean and right structre of the chemical or element (if we mess up with structure of any representation then we just need to click the "clean up structure" to create the right structure, it corrects the bonds angles).(it is vertical and it is also work for a part of chemical diagram).
+
+from View menu's database options show character map windows submenu have symbols and important (greek) latter which we need in chemical reactions and diagram.
+
+formula button is used to create formula from diagram or rection just select them and click the formula button from chemdraw (need to create it) it basically convert the H2O type written thing into formula of H2O (2 must be subscript) that is the numbers it convert to subscript.
