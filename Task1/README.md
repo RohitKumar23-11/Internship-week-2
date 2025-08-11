@@ -1,16 +1,11 @@
-Here's a concise **README** explaining the **architecture choices** and **convergence analysis** for your project:
+ README
 
----
-
-# 📘 README
-
-## 🧠 Project: Fully Connected Neural Network for Regression (NumPy-only)
+🧠 Project: Fully Connected Neural Network for Regression (NumPy-only)
 
 This project implements a fully connected feedforward neural network from scratch using **NumPy**. The model is trained using **stochastic gradient descent (SGD)** on a **noisy cubic function**, demonstrating its ability to learn non-linear patterns.
 
----
 
-## 🏗️ Architecture Choices
+🏗️ Architecture Choices
 
 ### Model Structure
 
@@ -40,7 +35,6 @@ This project implements a fully connected feedforward neural network from scratc
   * Enables efficient training with noisy gradient updates
   * Random shuffling and batching improve generalization
 
----
 
 ## 📈 Convergence Analysis
 
@@ -60,7 +54,6 @@ This project implements a fully connected feedforward neural network from scratc
 * Noise in the data is smoothed out by the model's generalization ability.
 * ReLU activation helped avoid saturation issues that could have occurred with sigmoid.
 
----
 
 ## 📊 Visualizations
 
@@ -68,7 +61,6 @@ This project implements a fully connected feedforward neural network from scratc
 * **Loss curve** showing training dynamics
 * **Prediction vs Ground Truth** for visual inspection of regression quality
 
----
 
 ## ✅ How to Run
 
@@ -80,3 +72,4 @@ This project implements a fully connected feedforward neural network from scratc
    * Visualize training and results
 
 ---
+
